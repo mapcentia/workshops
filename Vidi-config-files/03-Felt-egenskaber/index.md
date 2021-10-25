@@ -1,4 +1,4 @@
-# Felt egenskaber
+# Felt-indstillinger
 
 I GC2’s struktur-fane kan der laves en række indstillinger på feltniveau. Disse indstillinger styrer hvordan feltet virker i info-pop-up, filter mv.
 
